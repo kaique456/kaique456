@@ -1,1 +1,1 @@
-[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.instagram.com/kaique_de_lima123/)
+[![Blog]([https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/kaique_de_lima123/)
