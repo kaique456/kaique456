@@ -14,5 +14,9 @@ Olá Eu sou o Kaique 🤙🏽👋🏽
 <img aligin="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <img aligin="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
+</div><br/>
 
+<br>Apaixonado Por tecnologia<br/>
+Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário.
+
+## Jesus Saves Bro😉
