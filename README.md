@@ -4,6 +4,9 @@ Olá Eu sou o Kaique 🤙🏽👋🏽
 ![kaique456 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique456&show_icons=true&theme=dracula)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaique456&size_weight=0.5&count_weight=0.5)
+
+
 ### Tecnologia Que Eu Uso
 <div style="display: inline_block"><br/>
 
@@ -15,6 +18,8 @@ Olá Eu sou o Kaique 🤙🏽👋🏽
 
 <img aligin="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div><br/>
+
+
 
 <br>Apaixonado Por tecnologia<br/>
 Uma máquina consegue fazer o trabalho de 50 homens ordinários. Nenhuma máquina consegue fazer o trabalho de um homem extraordinário.
