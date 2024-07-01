@@ -4,3 +4,4 @@ Olá Eu sou o Kaique 🤙🏽👋🏽
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCooXOVhz_WXPwtd4Sd3xSzw)
 
 ![kaique456 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaique456&show_icons=true&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kaique456&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
