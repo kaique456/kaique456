@@ -1,6 +1,6 @@
 # Olá!👋🏽, Me chamo Kaique De Lima
 
-🚀 **Estudande De HTML, CSS e JavaScrpt,
+🚀 **Estudando HTML, CSS e JavaScrpt,
 Análise e Desenvolvimento de Sistemas (ADS)** Brasil 
 
 
