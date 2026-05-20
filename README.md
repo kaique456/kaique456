@@ -17,4 +17,4 @@ Rede Sociais <br>
 <br>
  <h2>💻 Linguagens e Tecnologias🚀</h2>
  <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+[JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
