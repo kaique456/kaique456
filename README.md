@@ -4,4 +4,9 @@
 Análise e Desenvolvimento de Sistemas (ADS)** Brasil 
 
 
+Rede Sociais 
+ <a href="https://instagram.com/kaique_de_lima123">
+    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
