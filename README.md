@@ -12,8 +12,9 @@ Rede Sociais <br>
     <img src="https://img.shields.io/badge/TikTok-@adsanalista-000000?style=for-the-badge&logo=tiktok" />
   </a>
  <a href="https://www.linkedin.com/in/kaique-de-lima-aa2a4638a">
-  <img src="https://img.shields.io/badge/LinkedIn-Kaique%20de%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Kaique%20de%20Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 <br>
  <h2>💻 Linguagens e Tecnologias🚀</h2>
+ <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
