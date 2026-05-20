@@ -24,3 +24,5 @@ Rede Sociais <br>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kaique456&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kaique456&layout=compact&theme=tokyonight" />
 </p>
+
+<h2>🚀 Desenvolvedor em formação focado em criar soluções através da tecnologia.💻</h2>
