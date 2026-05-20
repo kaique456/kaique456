@@ -11,5 +11,8 @@ Rede Sociais <br>
    <a href="https://www.tiktok.com/@adsanalista">
     <img src="https://img.shields.io/badge/TikTok-@adsanalista-000000?style=for-the-badge&logo=tiktok" />
   </a>
+ <a href="https://www.linkedin.com/kaique-de-lima">
+  <img src="https://img.shields.io/badge/kaique-de-lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
