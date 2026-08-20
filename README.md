@@ -63,16 +63,20 @@ Projetos desenvolvidos durante minha graduação em Análise e Desenvolvimento d
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="./assets/overview.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+  <img src="./assets/overview.light.svg" width="100%">
+</picture>
 
-<img src="./assets/contributions.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+  <img src="./assets/contributions.light.svg" width="100%">
+</picture>
 
-<img src="./assets/languages.svg" width="100%" />
-
-<h2>🐍 Minhas Contribuições</h2>
-
-<img src="./github-contribution-grid-snake.svg" />
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/languages.light.svg">
+  <img src="./assets/languages.dark.svg" width="100%">
+</picture>
 ---
 
 ## 🌐 Onde me encontrar
