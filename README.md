@@ -63,13 +63,15 @@ Projetos desenvolvidos durante minha graduação em Análise e Desenvolvimento d
 
 <h2>📊 GitHub Stats</h2>
 
-<h2>📊 GitHub Stats</h2>
+<img src="./assets/overview.svg" width="100%" />
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaique456&show_icons=true&theme=tokyonight" />
+<img src="./assets/contributions.svg" width="100%" />
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaique456&layout=compact&theme=tokyonight" />
-</p>
+<img src="./assets/languages.svg" width="100%" />
+
+<h2>🐍 Minhas Contribuições</h2>
+
+<img src="./github-contribution-grid-snake.svg" />
 
 ---
 
